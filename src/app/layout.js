@@ -13,6 +13,7 @@ export default function RootLayout({ children }) {
       <head>
         <title>{metadata.title}</title>
         <meta name="description" content={metadata.description} />
+        <meta name="google-adsense-account" content="ca-pub-6366457075080576">
         <link rel="icon" href="/wi.svg" />
       </head>
       <body>
