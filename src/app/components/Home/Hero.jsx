@@ -32,7 +32,7 @@ const Hero = () => {
     const settings = {
         infinite: true,
         slidesToShow: 8,
-
+arrows:false,
         slidesToScroll: 1,
         vertical: true,
         verticalSwiping: true,
